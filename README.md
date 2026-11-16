@@ -1,13 +1,12 @@
 # Spoke
 
-Plugin Minecraft. Lato gioco Paper/Spigot, lato proxy Velocity.
+Faccio plugin per server Minecraft, per hobby. Lato gioco Paper/Spigot, lato proxy Velocity.
 
-## Cosa faccio
+## Cosa trovi qui
 
-- Plugin Paper con le API moderne: `paper-plugin.yml`, comandi Brigadier, testo Adventure
-- Bridge proxy ↔ backend su Velocity tramite plugin messaging
-- Strumenti per lo staff: controlli, evidenze, punizioni con backend multipli
-- Persistenza leggera e query fuori dal main thread
+- Plugin Paper scritti con le API attuali: `paper-plugin.yml`, comandi Brigadier, testo Adventure
+- Un bridge proxy ↔ backend su Velocity tramite plugin messaging
+- Strumenti per lo staff dei server dove gioco
 
 ## Stack
 
@@ -17,7 +16,7 @@ Plugin Minecraft. Lato gioco Paper/Spigot, lato proxy Velocity.
 
 | Progetto | Cosa fa |
 | --- | --- |
-| [SpokeSS](https://github.com/spoke-cmd/SpokeSS) | Screenshare per lo staff: sessioni, impronta dell'inventario, scoreboard dedicate, vanish, punizioni con più backend e bridge Velocity |
+| [SpokeSS](https://github.com/spoke-cmd/SpokeSS) | Controlli screenshare per lo staff: sessioni, scoreboard, vanish e punizioni. In sviluppo |
 
 ## Contatti
 
